@@ -1,0 +1,2 @@
+# About
+This site is generated with Quarto on GitHub Pages.
