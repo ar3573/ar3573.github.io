@@ -1,0 +1,36 @@
+---
+title: "CV"
+---
+
+Download the latest PDF:
+
+- **[Aryan_Lokagariwar_CV.pdf](assets/cv/Aryan_Lokagariwar_CV.pdf)**
+
+---
+
+### Summary
+
+Business Analytics graduate student with a foundation in **economics**, hands-on **Spark** experience, and a focus on **decision support** (optimization, simulation).  
+Comfortable across the full analytics lifecycle — from data ingestion to stakeholder-ready narratives.
+
+---
+
+### Skills
+
+- **Languages/Tools:** Python, PySpark, SQL, Git/GitHub, Power BI, Quarto, AWS EC2  
+- **Methods:** Regression, Classification, Feature Engineering, Cross-Validation, Sensitivity Analysis, Optimization (LP/IP)
+
+---
+
+### Education
+
+- **M.S. Business Analytics (in progress)** — Boston University MET  
+- **B.S. Economics** — Southern Illinois University (SIU)
+
+---
+
+### Selected Coursework
+
+- Quantitative & Qualitative Decision-Making (AD715)  
+- Prescriptive Analytics  
+- Big Data (Spark SQL/ML)

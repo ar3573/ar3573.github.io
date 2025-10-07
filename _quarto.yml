@@ -1,11 +1,51 @@
 project:
   type: website
+  output-dir: _site
+  preview:
+    port: 4200
+    browser: false
 
 website:
-  title: "My Quarto Website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Aryan Lokagariwar"
+  site-url: https://ar3573.github.io
+  description: "Business Analytics & ML Portfolio — Projects, CV, and Contact"
+  favicon: assets/img/headshot.jpg
 
+  navbar:
+    logo: assets/img/headshot.jpg
+    left:
+      - text: About
+        href: about.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/ar3573
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN/
+
+  page-footer:
+    left: "© 2025 Aryan Lokagariwar"
+    right: |
+      Built with [Quarto](https://quarto.org) • Hosted on GitHub Pages
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    css: styles.css
+    code-copy: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

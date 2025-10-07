@@ -1,0 +1,47 @@
+---
+title: "Projects"
+page-layout: full
+---
+
+::: {.row g-4}
+
+::: {.col-md-6}
+::: {.card shadow}
+<img src="assets/img/proj-lightcast.png" class="card-img-top" alt="Lightcast job postings analytics" />
+::: {.card-body}
+### Lightcast Job Market Analytics  
+Explored a large job-postings dataset with **PySpark SQL & DataFrames**. Built pipelines for cleaning, deduplication, salary normalization, and **skills trend** analysis. Produced Quarto-based narratives and reproducible notebooks.
+
+**Stack:** PySpark, SQL, Quarto, GitHub Pages  
+**Repo:** <https://github.com/met-ad-688/assignment-03-ar3573>
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.card shadow}
+<img src="assets/img/proj-microbrew.png" class="card-img-top" alt="Microbrewery simulation project" />
+::: {.card-body}
+### In-House Microbrewery — Simulation & Optimization  
+Modeled pricing, capacity, and wholesale vs. retail strategy across FY1–FY3. Built **NPV maximization** with constraints, sensitivity analysis, and KPI/CSF dashboards. Delivered an APA-formatted managerial report with action items.
+
+**Stack:** Python, Optimization, Power BI, Quarto  
+**Artifacts:** Executive brief, 36-month pro forma, KPI tables
+:::
+:::
+:::
+
+::: {.col-md-6}
+::: {.card shadow}
+<img src="assets/img/proj-sparkml.png" class="card-img-top" alt="Spark ML classification" />
+::: {.card-body}
+### Machine Learning on Scale (Spark ML)  
+Implemented regression and classification pipelines with **MLlib** (VectorAssembler, StringIndexer, Pipeline, CrossValidator). Emphasis on **explainability**, metric selection, and robust validation.
+
+**Stack:** PySpark MLlib, AWS EC2, Quarto  
+**Focus:** Causal vs. predictive framing, model diagnostics
+:::
+:::
+:::
+
+:::

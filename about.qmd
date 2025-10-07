@@ -1,2 +1,34 @@
-# About
-This site is generated with Quarto on GitHub Pages.
+---
+title: "About"
+image: assets/img/headshot.jpg
+---
+
+Hi, I'm **Aryan Lokagariwar** — a Business Analytics student who loves turning messy data into sharp decisions.  
+I’ve worked across:
+
+- **Scalable analytics** with **PySpark** (SQL/DataFrames, MLlib) on AWS EC2  
+- **Decision support** & simulation (optimization, sensitivity analysis)  
+- **Storytelling for impact** — clear visuals, concise narratives, and executive summaries  
+
+---
+
+### Focus Areas
+
+- **Predictive & Prescriptive Analytics:** regression & classification at scale; linear and integer optimization for allocation and pricing  
+- **ETL & Data Modeling:** schema design, partitioning, and performance tuning  
+- **Visualization:** Plotly, Quarto, Power BI; dashboard design principles  
+
+---
+
+### Tools
+
+`Python` · `PySpark` · `Pandas` · `SQL` · `AWS EC2` · `Git/GitHub` · `Power BI` · `Quarto`
+
+---
+
+### Currently
+
+- Advancing **Spark ML** workflows and reproducible, Quarto-based reporting.  
+- Delivering a simulation-driven **Managerial Report** (multi-part) on an in-house microbrewery business case (AD715).  
+
+> I’m actively seeking roles in **data science / analytics** (risk, pricing, operations, ML) where I can ship reliable insights at scale.

@@ -1,0 +1,31 @@
+---
+title: "Contact"
+---
+
+If you’d like to connect, collaborate, or discuss data-driven projects — feel free to reach out!
+
+---
+
+### 📧 Email  
+<mailto:ar3573@bu.edu>
+
+### 💻 GitHub  
+[github.com/ar3573](https://github.com/ar3573)
+
+### 🔗 LinkedIn  
+[linkedin.com/in/aryan-l-67a1a1268](https://www.linkedin.com/in/aryan-l-67a1a1268)
+
+---
+
+> *Optional contact form (if you want messages sent directly to your email):*  
+> You can enable this later using [Formspree](https://formspree.io/).  
+> For now, it’s commented out — just remove the triple backticks to activate.
+
+```{=html}
+<!--
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <label>Your email: <input type="email" name="email" required></label><br>
+  <label>Your message: <textarea name="message" required></textarea></label><br>
+  <button type="submit">Send</button>
+</form>
+-->

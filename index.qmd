@@ -1,3 +1,21 @@
-# Welcome to My Website
-This is my first Quarto page hosted on GitHub Pages.
+---
+title: "Welcome"
+image: assets/img/headshot.jpg
+page-layout: article
+---
 
+<div class="hero">
+
+# Hey — I'm Aryan.
+
+Business Analytics grad student focused on **ML, Spark, and decision science**.  
+I build data products, optimize systems, and present insights clearly.
+
+- **M.S. Business Analytics (in progress)** — Boston University MET  
+- **B.S. Economics** — Southern Illinois University (SIU)  
+- Interests: optimization, causal inference, MLOps, and cinematic storytelling.
+
+[About Me →](/about.qmd){.btn .btn-primary}
+[Projects →](/projects.qmd){.btn .btn-secondary}
+
+</div>
