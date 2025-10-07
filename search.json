@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you’d like to connect, collaborate, or discuss data-driven projects — feel free to reach out!\n\n\n📧 Email\nmailto:ar3573@bu.edu\n\n\n💻 GitHub\ngithub.com/ar3573\n\n\n🔗 LinkedIn\nlinkedin.com/in/aryan-l-67a1a1268\n\n\nOptional contact form (if you want messages sent directly to your email):\nYou can enable this later using Formspree.\nFor now, it’s commented out — just remove the triple backticks to activate."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download the latest PDF:\n\nAryan_Lokagariwar_CV.pdf\n\n\n\nSummary\nBusiness Analytics graduate student with a foundation in economics, hands-on Spark experience, and a focus on decision support (optimization, simulation).\nComfortable across the full analytics lifecycle — from data ingestion to stakeholder-ready narratives.\n\n\n\nSkills\n\nLanguages/Tools: Python, PySpark, SQL, Git/GitHub, Power BI, Quarto, AWS EC2\n\nMethods: Regression, Classification, Feature Engineering, Cross-Validation, Sensitivity Analysis, Optimization (LP/IP)\n\n\n\n\nEducation\n\nM.S. Business Analytics (in progress) — Boston University MET\n\nB.S. Economics — Southern Illinois University (SIU)\n\n\n\n\nSelected Coursework\n\nQuantitative & Qualitative Decision-Making (AD715)\n\nPrescriptive Analytics\n\nBig Data (Spark SQL/ML)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hey — I’m Aryan.\nBusiness Analytics grad student focused on ML, Spark, and decision science.\nI build data products, optimize systems, and present insights clearly.\n\nM.S. Business Analytics (in progress) — Boston University MET\n\nB.S. Economics — Southern Illinois University (SIU)\n\nInterests: optimization, causal inference, MLOps, and cinematic storytelling.\n\nAbout Me → Projects →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi, I’m Aryan Lokagariwar — a Business Analytics student who loves turning messy data into sharp decisions.\nI’ve worked across:\n\nScalable analytics with PySpark (SQL/DataFrames, MLlib) on AWS EC2\n\nDecision support & simulation (optimization, sensitivity analysis)\n\nStorytelling for impact — clear visuals, concise narratives, and executive summaries\n\n\n\nFocus Areas\n\nPredictive & Prescriptive Analytics: regression & classification at scale; linear and integer optimization for allocation and pricing\n\nETL & Data Modeling: schema design, partitioning, and performance tuning\n\nVisualization: Plotly, Quarto, Power BI; dashboard design principles\n\n\n\n\nTools\nPython · PySpark · Pandas · SQL · AWS EC2 · Git/GitHub · Power BI · Quarto\n\n\n\nCurrently\n\nAdvancing Spark ML workflows and reproducible, Quarto-based reporting.\n\nDelivering a simulation-driven Managerial Report (multi-part) on an in-house microbrewery business case (AD715).\n\n\nI’m actively seeking roles in data science / analytics (risk, pricing, operations, ML) where I can ship reliable insights at scale."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "::: {.row g-4}\n\n::: {.card shadow}  ::: {.card-body} ### Lightcast Job Market Analytics\nExplored a large job-postings dataset with PySpark SQL & DataFrames. Built pipelines for cleaning, deduplication, salary normalization, and skills trend analysis. Produced Quarto-based narratives and reproducible notebooks.\nStack: PySpark, SQL, Quarto, GitHub Pages\nRepo: https://github.com/met-ad-688/assignment-03-ar3573\n\n::: :::\n\n::: {.card shadow}  ::: {.card-body} ### In-House Microbrewery — Simulation & Optimization\nModeled pricing, capacity, and wholesale vs. retail strategy across FY1–FY3. Built NPV maximization with constraints, sensitivity analysis, and KPI/CSF dashboards. Delivered an APA-formatted managerial report with action items.\nStack: Python, Optimization, Power BI, Quarto\nArtifacts: Executive brief, 36-month pro forma, KPI tables\n\n::: :::\n\n::: {.card shadow}  ::: {.card-body} ### Machine Learning on Scale (Spark ML)\nImplemented regression and classification pipelines with MLlib (VectorAssembler, StringIndexer, Pipeline, CrossValidator). Emphasis on explainability, metric selection, and robust validation.\nStack: PySpark MLlib, AWS EC2, Quarto\nFocus: Causal vs. predictive framing, model diagnostics\n\n::: :::\n:::"
+  }
+]
