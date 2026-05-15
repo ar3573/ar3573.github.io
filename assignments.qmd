@@ -1,0 +1,23 @@
+---
+title: "Assignments"
+description: "Assignment deliverables, artifacts, and technical evidence."
+---
+
+::: {.workbench-page data-page="assignments" data-default-type="Assignment"}
+<section class="page-head">
+<p class="eyebrow">Assignment Archive</p>
+<h1>Assignments</h1>
+<p>Reports, notebooks, code, figures, and submissions organized for fast review.</p>
+</section>
+
+<section class="command-row compact" role="search">
+<label class="sr-only" for="assignment-search">Search assignments</label>
+<input id="assignment-search" class="work-search" type="search" placeholder="Search assignments..." autocomplete="off">
+<div class="filter-set" aria-label="Assignment filters">
+<button class="filter-chip is-active" type="button" data-filter="Assignment">Assignments</button>
+</div>
+</section>
+
+<section id="assignment-table" class="work-table-wrap" data-table-type="Assignment" aria-live="polite"></section>
+<section id="work-grid" class="work-grid tight" data-card-type="Assignment" aria-live="polite"></section>
+:::

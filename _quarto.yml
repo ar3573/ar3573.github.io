@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Aryan Lokagariwar"
+  site-url: "https://ar3573.github.io"
+  repo-url: "https://github.com/ar3573/ar3573.github.io"
+  page-navigation: false
+  navbar:
+    pinned: true
+    logo: assets/mark.svg
+    title: "AR3573"
+    left:
+      - href: index.qmd
+        text: Work
+      - href: assignments.qmd
+        text: Assignments
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/ar3573
+        aria-label: GitHub
+  page-footer:
+    left: "Aryan Lokagariwar"
+    right: "Assignments + projects only."
+
+format:
+  html:
+    theme: cosmo
+    page-layout: full
+    toc: false
+    css: assets/styles.css
+    include-after-body: assets/_scripts.html
+    smooth-scroll: true
+    code-copy: true
+    anchor-sections: false
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

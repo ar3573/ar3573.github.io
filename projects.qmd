@@ -1,0 +1,23 @@
+---
+title: "Projects"
+description: "Project deliverables, repos, demos, and build artifacts."
+---
+
+::: {.workbench-page data-page="projects" data-default-type="Project"}
+<section class="page-head">
+<p class="eyebrow">Project Index</p>
+<h1>Projects</h1>
+<p>Builds, demos, repositories, reports, screenshots, and final deliverables in one place.</p>
+</section>
+
+<section class="command-row compact" role="search">
+<label class="sr-only" for="project-search">Search projects</label>
+<input id="project-search" class="work-search" type="search" placeholder="Search projects..." autocomplete="off">
+<div class="filter-set" aria-label="Project filters">
+<button class="filter-chip is-active" type="button" data-filter="Project">Projects</button>
+</div>
+</section>
+
+<section id="project-table" class="work-table-wrap" data-table-type="Project" aria-live="polite"></section>
+<section id="work-grid" class="work-grid tight" data-card-type="Project" aria-live="polite"></section>
+:::

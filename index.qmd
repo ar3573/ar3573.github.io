@@ -1,0 +1,69 @@
+---
+title: "Assignments + Projects"
+description: "A project-focused Quarto site for Aryan Lokagariwar."
+---
+
+::: {.workbench-page data-page="home"}
+<section class="hero-panel" aria-labelledby="site-title">
+<div class="hero-grid">
+<div class="hero-copy">
+<p class="eyebrow">AR3573 / Course Workbench</p>
+<h1 id="site-title">Assignments + Projects</h1>
+<p class="hero-kicker">Deliverables, repos, reports, demos, methods, and build evidence. No filler.</p>
+<div class="command-row" role="search">
+<label class="sr-only" for="work-search">Search assignments and projects</label>
+<input id="work-search" class="work-search" type="search" placeholder="Search work, stack, status, artifact..." autocomplete="off">
+<div class="filter-set" aria-label="Work filters">
+<button class="filter-chip is-active" type="button" data-filter="All">All</button>
+<button class="filter-chip" type="button" data-filter="Assignment">Assignments</button>
+<button class="filter-chip" type="button" data-filter="Project">Projects</button>
+</div>
+</div>
+</div>
+<div class="system-panel" aria-label="Work index status">
+<div class="system-line">
+<span>Index</span>
+<strong data-count="total">0</strong>
+</div>
+<div class="system-line">
+<span>Assignments</span>
+<strong data-count="assignments">0</strong>
+</div>
+<div class="system-line">
+<span>Projects</span>
+<strong data-count="projects">0</strong>
+</div>
+<div class="system-line">
+<span>Stacks</span>
+<strong data-count="stacks">0</strong>
+</div>
+</div>
+</div>
+</section>
+
+<section class="control-strip" aria-label="Current work filters">
+<div>
+<p class="section-label">Current Scope</p>
+<h2>Work sorted by execution value.</h2>
+</div>
+<div class="sort-control">
+<label for="work-sort">Sort</label>
+<select id="work-sort" class="work-sort">
+<option value="priority">Priority</option>
+<option value="recent">Most recent</option>
+<option value="type">Type</option>
+<option value="status">Status</option>
+</select>
+</div>
+</section>
+
+<section id="work-grid" class="work-grid" aria-live="polite"></section>
+
+<section class="matrix-section" aria-labelledby="matrix-title">
+<div class="section-heading">
+<p class="section-label">Stack Matrix</p>
+<h2 id="matrix-title">Methods, tools, and artifacts used across the work.</h2>
+</div>
+<div id="stack-matrix" class="stack-matrix"></div>
+</section>
+:::
